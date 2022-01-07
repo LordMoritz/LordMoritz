@@ -1,3 +1,6 @@
-- 👋 Hi, I’m @LordMoritz
-- 🌱 I’m currently learning Python and C# in Unity
-- 📫 How to reach me Twitter: https://twitter.com/Moritz1919
+Dragon Realm:
+
+a simple terminal based game
+written in python
+only available for mac and in german(english soon)
+just download it
